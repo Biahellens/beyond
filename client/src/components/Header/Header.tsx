@@ -25,7 +25,7 @@ export default function Header() {
         width="100vw"
         height="5rem"
         sx={{
-          background: "#E0FFFF",
+          background: "#008B8B",
           padding: "2rem",
           top: 0,
           position: isMobile ? '' : "fixed",
